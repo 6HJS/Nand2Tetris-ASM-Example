@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-04-10T10:48:29.993Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="xbWkdg_eTuB_X_YXsFWS" version="21.1.2" type="device">
+<mxfile host="Electron" modified="2023-04-10T11:29:21.123Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="NpS7Ns_UoixQVcIR2KeB" version="21.1.2" type="device">
   <diagram name="Page-1" id="J2dI-G4Xx_uCDxFqBDNp">
-    <mxGraphModel dx="424" dy="268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="305" dy="284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -177,6 +177,9 @@
         </mxCell>
         <mxCell id="BzpWnOmyiMtVF2IAb3Cy-54" value="Can we reuse the code from ArrMin implemented earlier?" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="1080" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BzpWnOmyiMtVF2IAb3Cy-55" value="1000" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="231" y="460" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
